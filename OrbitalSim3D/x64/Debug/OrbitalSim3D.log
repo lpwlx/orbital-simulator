@@ -1,1 +1,3 @@
-﻿  OrbitalSim3D.vcxproj -> C:\Programming\current\OrbitalSim3D\x64\Debug\OrbitalSim3D.exe
+﻿FXC : error X3501: 'main': entrypoint not found
+  
+  compilation failed; no code produced
